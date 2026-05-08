@@ -1,4 +1,4 @@
-
+Enhance Lightroom for macOS with Lightroom for macOS new Addon: batch-processing & drag-and-drop-editor, the #1 addon. Includes batch-processing and drag-and-drop-editor for a
 
 
 
